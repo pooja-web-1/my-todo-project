@@ -123,3 +123,51 @@ li button {
 .dark li {
   background: #444;
 }
+
+/* DARK MODE FIX */
+body.dark {
+  background: #121212;
+}
+
+body.dark .container {
+  background: #1e1e1e;
+  color: white;
+}
+
+body.dark input {
+  background: #333;
+  color: white;
+}
+
+body.dark li {
+  background: #333;
+}
+
+body.dark button {
+  background: #444;
+}
+
+body.dark button:hover {
+  background: #666;
+}
+
+h1 {
+  font-size: 26px;
+  letter-spacing: 1px;
+}
+
+button {
+  font-weight: bold;
+}
+
+.input-box button {
+  background: #28a745;
+}
+
+.input-box button:hover {
+  background: #218838;
+}
+
+li {
+  cursor: pointer;
+}
