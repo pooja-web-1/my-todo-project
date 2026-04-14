@@ -1,2 +1,2 @@
-# my-todo-project
-A modern To-Do App built using HTML, CSS, and JavaScript with features like add, delete, edit, dark mode, and local storage.
+#my-todo-project
+Fixed JS errors & improved To-Do App
